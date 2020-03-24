@@ -1,10 +1,13 @@
 # Zahlencode-Schloss mit Tastenfeld
 
-*ein wenig mehr Prosa! Welche Aufgabe soll der Servomotor einnehmen? Gibt es nur eine gültige Nummer? Da fehlt mir ein wenig Algorithmik. So wäre es nur die Inbetriebnahme der Hardware, zwei Bibliotheken einbinden und recht wenig eigener Code*
+## Anforderung:
 
-## Funktionsbeschreibung
+* Mit einem 4x4 Tastenfeld soll, durch die Eingabe eines 4 stelligen PINs, 
+  eine LED aufleuchten und ein Servomotor eine bestimmte Position einnehmen und damit ein Schloss, einer Zimmertür betätigen.
 
-* 3-stelligen Code in Tastenfeld eingeben 
-* Auswertung, grüne LED = richtig
-* Auswertung, rote LED = gesperrt 
-* Servomotor bestimmte Position einnehmen 
+* Sobald das Schloss „gesperrt“ ist, soll eine rote LED aufleuchten und der Servo das Schloss schließen. 
+  Nach Eingabe des korrekten PINs, soll eine grüne LED leuchten und der Servo das Türschloss öffnen.
+
+* Mit der Taste "*" oder "#", kann das Schloss wieder gesperrt werdern.
+
+* Es gibt nur ein gültiges Passwort. 
