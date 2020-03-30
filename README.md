@@ -8,7 +8,7 @@
 * Sobald das Schloss „gesperrt“ ist, soll eine rote LED aufleuchten und der Servo das Schloss schließen. 
   Nach Eingabe des korrekten PINs, soll eine grüne LED leuchten und der Servo das Türschloss öffnen.
 * Wenn der Pin 3 mal falsch eingegeben wurde, sperrt sich das Schloss. 
-* Die mögliche Anzahl ab entsperrversuchen wird angezeigt. 
+* Die mögliche Anzahl an Entsperrversuchen wird angezeigt. 
 
 * Mit der Taste "*" oder "#", kann das Schloss wieder gesperrt werdern.
 
