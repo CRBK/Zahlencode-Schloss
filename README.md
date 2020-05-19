@@ -13,3 +13,14 @@
 * Mit der Taste "*" oder "#", kann das Schloss wieder gesperrt werdern.
 
 * Es gibt nur ein gültiges Passwort. 
+
+
+## Komponenten 
+
+* Arduino
+* Steckplatine
+* Tastenfeld 4X4
+* rote LED
+* grüne LED
+* 2 Stk. 100 Ohm Widerstand
+* Servo
