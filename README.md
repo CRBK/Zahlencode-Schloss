@@ -17,10 +17,10 @@
 
 ## Komponenten 
 
-* Arduino
-* Steckplatine
-* Tastenfeld 4X4
-* rote LED
-* grüne LED
-* 2 Stk. 100 Ohm Widerstand
-* Servo
+* 1x Arduino UNO
+* 1x Steckplatine
+* 1x Tastenfeld 4X4
+* 1x rote LED
+* 1x grüne LED
+* 2x 100 Ohm Widerstand
+* 1x Servo Motor (SG90)
