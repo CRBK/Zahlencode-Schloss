@@ -22,5 +22,5 @@
 * 1x Tastenfeld 4X4
 * 1x rote LED
 * 1x grüne LED
-* 2x 100 Ohm Widerstand
+* 2x 270 Ohm Widerstand
 * 1x Servo Motor (SG90)
