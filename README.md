@@ -24,3 +24,6 @@
 * 1x grüne LED
 * 2x 270 Ohm Widerstand
 * 1x Servo Motor (SG90)
+
+
+* Das Programm wird seperat vorgestellt
