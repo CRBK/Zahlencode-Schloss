@@ -25,6 +25,10 @@
 * 2x 270 Ohm Widerstand
 * 1x Servo Motor (SG90)
 
+## Aufbau
+
+![Aufbau](https://raw.githubusercontent.com/CRBK/Zahlencode-Schloss/master/Zahlencode-Schloss.png)
+
 
 ## Programm Code
 * Das Programm wird seperat vorgestellt
